@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-01T13:57:31.016Z" agent="5.0 (Windows)" etag="NZq3sBc8m0LO44CzjGsX" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-01T14:28:39.448Z" agent="5.0 (Windows)" etag="XTe7aJ7qpW5aYV4Beg7a" version="13.6.6" type="github">
   <diagram id="_38OMIWXt7H9RE7dVZdC" name="Page-1">
     <mxGraphModel dx="868" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -29,16 +29,16 @@
           <mxGeometry x="560" y="430" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="c1YBvzrRhg0FDO1bEwd2-9" value="Inventory" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="640" y="120" width="160" height="160" as="geometry" />
+          <mxGeometry x="640" y="120" width="160" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="c1YBvzrRhg0FDO1bEwd2-10" value="Capacity &#xa;Sock" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="c1YBvzrRhg0FDO1bEwd2-9" vertex="1">
-          <mxGeometry y="26" width="160" height="44" as="geometry" />
+        <mxCell id="c1YBvzrRhg0FDO1bEwd2-10" value="capacity: number&#xa;sock: number&#xa;items:&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="c1YBvzrRhg0FDO1bEwd2-9" vertex="1">
+          <mxGeometry y="26" width="160" height="54" as="geometry" />
         </mxCell>
         <mxCell id="c1YBvzrRhg0FDO1bEwd2-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="c1YBvzrRhg0FDO1bEwd2-9" vertex="1">
-          <mxGeometry y="70" width="160" height="8" as="geometry" />
+          <mxGeometry y="80" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="c1YBvzrRhg0FDO1bEwd2-12" value="insert(thingToInsert : string) &#xa;remove : thingRemoved&#xa;empty() : thingsEmptied&#xa;empty(invetoryToGoTo)&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="c1YBvzrRhg0FDO1bEwd2-9" vertex="1">
-          <mxGeometry y="78" width="160" height="82" as="geometry" />
+          <mxGeometry y="88" width="160" height="82" as="geometry" />
         </mxCell>
         <mxCell id="fV77j_MeTy0e_qj4ae1h-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fV77j_MeTy0e_qj4ae1h-1" target="fV77j_MeTy0e_qj4ae1h-2">
           <mxGeometry relative="1" as="geometry" />
