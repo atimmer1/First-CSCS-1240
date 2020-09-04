@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-02T12:44:17.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="r8ppJNFXTD4Aui9UYn26" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T13:25:46.969Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="PUz6xhpPogtqsHhWivjN" version="13.6.6" type="github">
   <diagram id="_38OMIWXt7H9RE7dVZdC" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -70,14 +70,20 @@
         <mxCell id="fV77j_MeTy0e_qj4ae1h-9" value="start" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_4K1MjJ3_qHQkmQHoh8G-1" value="Groceries&lt;br&gt;milk (gal)&lt;br&gt;eggs (2 dozen)&lt;br&gt;bread (1 loaf)&lt;br&gt;cookies (a lot)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="_4K1MjJ3_qHQkmQHoh8G-1" value="Groceries&lt;br&gt;milk (gal)&lt;br&gt;eggs (2 dozen)&lt;br&gt;bread (1 loaf)&lt;br&gt;cookies (a lot)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1210" y="110" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_4K1MjJ3_qHQkmQHoh8G-2" value="linked list&lt;br&gt;singly linked list&lt;br&gt;doubly linked list" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="_4K1MjJ3_qHQkmQHoh8G-2" value="linked list&lt;br&gt;singly linked list&lt;br&gt;doubly linked list" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1210" y="210" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_4K1MjJ3_qHQkmQHoh8G-3" value="Groceries&lt;br&gt;1 milk&lt;br&gt;2 eggs&lt;br&gt;3 bread&lt;br&gt;4 cookies" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="_4K1MjJ3_qHQkmQHoh8G-3" value="Groceries&lt;br&gt;1 milk&lt;br&gt;2 eggs&lt;br&gt;3 bread&lt;br&gt;4 cookies" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1365" y="70" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6JYLYx4JHXWrA2m5877R-1" value="Data + Meaning = Information" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="390" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6JYLYx4JHXWrA2m5877R-2" value="121595" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="410" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
