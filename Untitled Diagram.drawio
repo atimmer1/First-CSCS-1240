@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T13:25:46.969Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="PUz6xhpPogtqsHhWivjN" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-07T13:27:59.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="UfpaAcIasA7UHRtxvO1m" version="13.6.6" type="github">
   <diagram id="_38OMIWXt7H9RE7dVZdC" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -79,11 +79,29 @@
         <mxCell id="_4K1MjJ3_qHQkmQHoh8G-3" value="Groceries&lt;br&gt;1 milk&lt;br&gt;2 eggs&lt;br&gt;3 bread&lt;br&gt;4 cookies" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1365" y="70" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6JYLYx4JHXWrA2m5877R-1" value="Data + Meaning = Information" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="6JYLYx4JHXWrA2m5877R-1" value="Data + Meaning = Information" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1210" y="390" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6JYLYx4JHXWrA2m5877R-2" value="121595" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="6JYLYx4JHXWrA2m5877R-2" value="121595" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1240" y="410" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="soqQz1_LplRIS5dkgfLs-1" value="list" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="60" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="soqQz1_LplRIS5dkgfLs-2" value="array" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="soqQz1_LplRIS5dkgfLs-3" value="datatype" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="soqQz1_LplRIS5dkgfLs-4" value="strings" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="110" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="soqQz1_LplRIS5dkgfLs-5" value="numbers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="110" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="soqQz1_LplRIS5dkgfLs-6" value="1 Amounts of bits/bytes&lt;br&gt;2&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="55" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
