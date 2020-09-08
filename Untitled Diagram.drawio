@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-08T13:27:07.263Z" agent="5.0 (Windows)" etag="aZo2BHbeQqw6l0RqGreY" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-08T14:47:15.558Z" agent="5.0 (Windows)" etag="JsEL3iyBKE9pOjXXduz5" version="13.6.9" type="github">
   <diagram id="_38OMIWXt7H9RE7dVZdC" name="Page-1">
     <mxGraphModel dx="868" dy="1579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -108,6 +108,12 @@
         </mxCell>
         <mxCell id="Eul-OHPvdQXQQk-2mtmN-2" value="1*100 2*10 3*1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="-190" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Eul-OHPvdQXQQk-2mtmN-3" value="&lt;div&gt;Variable&lt;/div&gt;&lt;div&gt;1. symbol &lt;br&gt;&lt;/div&gt;&lt;div&gt;2. value&lt;/div&gt;&lt;div&gt;3. datatype&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1455" y="340" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eul-OHPvdQXQQk-2mtmN-4" value="123" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="340" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
