@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T20:29:25.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4200.0 Iron Safari/537.36" version="13.9.9" etag="Zplj28C_p_1BnJ6isJvZ" type="github"><diagram id="FG6YYTk2sED3XfOmZvWB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-16T23:37:15.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4200.0 Iron Safari/537.36" etag="wQHoqDp507e7hA2iXTFh" version="13.9.9" type="github">
+  <diagram id="FG6YYTk2sED3XfOmZvWB" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fQ9IbECkCy0SCe_vt15--2" value="ClimateHub is a name&lt;br&gt;Thermostat is a name&lt;br&gt;Barometer is a name&lt;br&gt;&lt;i&gt;Comment: The Thermostat and Barometer are only going to give readouts to the hub, the hub will make actual changes.&lt;br&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="60" width="220" height="270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
